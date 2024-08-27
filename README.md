@@ -1,5 +1,5 @@
 # Praktikum-web
-## This is a repo for praktikum web
+## This is a repo only for praktikum web
 
 **information about my college task will submit here, especially for praktikum web subject.**
 
