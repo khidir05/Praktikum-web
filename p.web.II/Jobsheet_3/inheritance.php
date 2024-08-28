@@ -26,4 +26,3 @@ echo $orang->getName() . "<br>" ;
 
 $siswa = new student("Kelas yang menunjukan bahwa ini adalah siswa");
 echo $siswa->getStudentID();
-echo $siswa->getName();
