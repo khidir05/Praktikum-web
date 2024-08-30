@@ -373,6 +373,7 @@ Warning: Undefined array key "id_scholarship" in C:\laragon\www\tugas_II\1.php o
 
 ## sumber projek
 - warungbelajar (sebagai pondasi utama dari class database dan tampilan)
+- jobsheet I, II, III (sebagai pondasi utama dari class database, encapsulation, polymorphism dan tampilan)
 - geeksforgeek (refrensi pembuatan kelas dan pembbuatan data di sql)
 - malasngoding (refrensi penjelesan ERD)
 - duniailkom (refrensi penjelesan ERD)
